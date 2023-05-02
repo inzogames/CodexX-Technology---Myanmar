@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+.title{
+    font-size: 8em;
+    color: rgb(9, 36, 126);
+}
+
+.btn{
+    background-color: blueviolet;
+    font-size: 70px;
+}
